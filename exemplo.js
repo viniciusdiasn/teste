@@ -10,7 +10,6 @@ b='10'
 function SomarNumeros(num1, num2) {
     return num1 + num2
 }
-        
 console.log(SomarNumeros())
 console.log(a)
 console.log(b)
